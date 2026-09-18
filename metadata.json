@@ -1,0 +1,6 @@
+{
+  "name": "Grammar Run!",
+  "description": "초등학교 5학년을 위한 러닝형 영어 문법 선택 게임. 달리면서 올바른 문법 길을 선택하고 AI 맞춤 피드백과 복습을 제공합니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
